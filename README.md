@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GameBuild" width="64" height="64" src="logo.svg"/>
+  <img alt="GameBuild" width="64" height="64" src="https://raw.githubusercontent.com/GameBuildOffical/brand-kit/refs/heads/main/logo/SVG/mini_logo.svg"/>
 </p>
 
 <p align="center">
